@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Krushna Sunil Jape
 
-<!--
-**Krushna2003/Krushna2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring AI and Machine Learning enthusiast passionate about solving real-world problems using technology. I have a solid foundation in web development, cybersecurity, and software engineering, with hands-on experience in building AI-powered applications and IoT solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🌍 From Shirdi, India 🇮🇳
+- 🎓 Studied at Sanjivani University and Sanjivani K.B.P. Polytechnic, Kopargaon
+- 📧 Email: krushnajape25@gmail.com
+- 📱 Phone: +91 9970946494
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krushna-jape-9513a8267)
+- 💻 [GitHub](https://github.com/Krushna2003)
+
+---
+
+## 🛠️ Skills
+
+**Languages:** C++, Java, Python, HTML, CSS, JavaScript, PHP  
+**Frameworks:** React.js, Node.js, Express.js  
+**Tools:** Git, GitHub, Docker, Jenkins  
+**Databases:** MySQL, MongoDB  
+**Operating Systems:** Windows, Ubuntu  
+**Cloud:** AWS  
+
+---
+
+## 📚 Certifications
+
+- ✅ Google Cybersecurity Certificate
+- ✅ The Fundamentals of Digital Marketing (Google)
+- ✅ DevOps Fundamentals (IBM)
+- ✅ Cloud Fundamentals (IBM)
+- ✅ Python Programming (Infosys)
+- ✅ Meta Programming Courses (Coursera)
+
+---
+
+## 💡 Projects
+
+### 🧬 Prostate Cancer Detection
+AI-based medical image segmentation using U-Net and MedGPT API.  
+**Tech Stack:** React (frontend), FastAPI (backend), Firebase (storage)  
+**Accuracy:** Based on Structural Similarity Algorithm  
+🔗 [GitHub Repo](https://github.com/prasad16052003/Prostate_Cancer_Detection)
+
+---
+
+### 🧾 Billing Management System (BMS)
+Web-based billing software for managing customer billing cycles.  
+**Tech Stack:** HTML, CSS, JS, PHP, MySQL  
+🔗 [GitHub Repo](https://github.com/prasad16052003/BMS)
+
+---
+
+### 🚗 Smart Parking System
+IoT-based solution using IR sensor, Light sensor, Servomotor, and Auto-Light system.
+
+---
+
+## 🏆 Achievements
+
+- 📄 Published a paper on the Billing System in IJASRET
+- 🌐 Completed internship in Web Development at Origin Software Solution
+
+---
+
+> ⚡ "Committed to continuous learning and innovation in the AI/ML domain."
