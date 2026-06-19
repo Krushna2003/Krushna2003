@@ -57,7 +57,7 @@ Built a Legal AI Assistant that provides accurate, document-based legal question
 ### 🤖 Jarvis – AI Virtual Assistant
 Created an intelligent voice- and text-enabled virtual assistant capable of speech recognition, text-to-speech conversion, web automation, and real-time information retrieval. Designed a modern PyQt5 GUI with multithreading support.
 **Tech Stack:**  Python, PyQt5, Speech Recognition, NLP, Selenium, APIs
-🔗 [GitHub Repo](https://github.com/prasad16052003/BMS)
+🔗 [GitHub Repo](https://github.com/Krushna2003/JARVIS-)
 
 
 ---
