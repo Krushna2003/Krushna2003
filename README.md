@@ -50,7 +50,7 @@ AI-based medical image segmentation using U-Net and MedGPT API.
 ### ⚖️ Legal Agent using RAG
 Built a Legal AI Assistant that provides accurate, document-based legal question answering using Retrieval-Augmented Generation (RAG). Implemented vector search and context-aware response generation to minimize hallucinations.
 **Tech Stack:** Python, LangChain, ChromaDB, LLMs, RAG, FastAPI
-🔗 [GitHub Repo](https://github.com/prasad16052003/BMS)
+🔗 [GitHub Repo](https://github.com/Krushna2003/Legal-Agent-using-RAG)
 
 ---
 
