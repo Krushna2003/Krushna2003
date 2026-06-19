@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krushna Sunil Jape
 
-🚀 Aspiring AI and Machine Learning enthusiast passionate about solving real-world problems using technology. I have a solid foundation in web development, cybersecurity, and software engineering, with hands-on experience in building AI-powered applications and IoT solutions.
+🚀 Passionate AI/ML Engineer with hands-on experience in Computer Vision, Deep Learning, Medical Image Analysis, and Large Language Models (LLMs). Skilled in building AI-powered applications using Python, TensorFlow, PyTorch, OpenCV, and modern AI frameworks
 
 ---
 
