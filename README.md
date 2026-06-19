@@ -43,7 +43,7 @@
 AI-based medical image segmentation using U-Net and MedGPT API.  
 **Tech Stack:** React (frontend), FastAPI (backend), Firebase (storage)  
 **Accuracy:** Based on Structural Similarity Algorithm  
-🔗 [GitHub Repo](https://github.com/prasad16052003/Prostate_Cancer_Detection)
+🔗 [GitHub Repo](https://github.com/Krushna2003/Prostate-Cancer-Detection-in-ML)
 
 ---
 
