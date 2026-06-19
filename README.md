@@ -66,6 +66,7 @@ Created an intelligent voice- and text-enabled virtual assistant capable of spee
 
 - 📄 Published a paper on the Billing System in IJASRET
 - 🌐 Completed internship in Web Development at Origin Software Solution
+- 🌐 aOS Global Buildathon (Hackerrank 2024) - Shortlisted among Top 2806 teams globally for innovative project development.
 
 ---
 
