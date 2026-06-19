@@ -47,15 +47,18 @@ AI-based medical image segmentation using U-Net and MedGPT API.
 
 ---
 
-### 🧾 Billing Management System (BMS)
-Web-based billing software for managing customer billing cycles.  
-**Tech Stack:** HTML, CSS, JS, PHP, MySQL  
+### ⚖️ Legal Agent using RAG
+Built a Legal AI Assistant that provides accurate, document-based legal question answering using Retrieval-Augmented Generation (RAG). Implemented vector search and context-aware response generation to minimize hallucinations.
+**Tech Stack:** Python, LangChain, ChromaDB, LLMs, RAG, FastAPI
 🔗 [GitHub Repo](https://github.com/prasad16052003/BMS)
 
 ---
 
-### 🚗 Smart Parking System
-IoT-based solution using IR sensor, Light sensor, Servomotor, and Auto-Light system.
+### 🤖 Jarvis – AI Virtual Assistant
+Created an intelligent voice- and text-enabled virtual assistant capable of speech recognition, text-to-speech conversion, web automation, and real-time information retrieval. Designed a modern PyQt5 GUI with multithreading support.
+**Tech Stack:**  Python, PyQt5, Speech Recognition, NLP, Selenium, APIs
+🔗 [GitHub Repo](https://github.com/prasad16052003/BMS)
+
 
 ---
 
